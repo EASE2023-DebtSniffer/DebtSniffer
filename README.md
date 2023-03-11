@@ -11,6 +11,6 @@ The dataset included SATD comments from 503 open source projects which are typic
 
 ![Dataset table](dataset.png)
 
-This dataset classified and verified by Vidoni [a link](https://link.springer.com/article/10.1007/s10515-022-00358-6)
+This dataset classified and verified by [Vidoni](https://link.springer.com/article/10.1007/s10515-022-00358-6)
 
 
